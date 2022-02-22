@@ -5,8 +5,10 @@
 
 ### :bust_in_silhouette: About Me:
 
-I am currently in High School Grade 12 working toward getting accepted into the Computer Science Coop program with OntarioTech University (UOIT).
+I am currently in High School Grade 12 working toward getting accepted into the Computer Science Coop program with Ontario Tech University. Also, checkout out my Github Gists.
 
+<a href="https://gist.github.com/ejanovitz">GitHub Gists</a>
+  
 #### :eyes: I’m interested in ...
 
 * Coding
