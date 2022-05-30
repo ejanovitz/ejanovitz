@@ -5,7 +5,7 @@
 
 ### :bust_in_silhouette: About Me:
 
-I am currently in High School Grade 12 working toward getting accepted into the Computer Science Coop program with Ontario Tech University. While you are here, take a look at my GitHub Gists!
+I am currently in High School Grade 12 working toward getting accepted into the Computer Science Coop program with Ontario Tech University. While you are here, take a look at my GitHub Gists! I am currently reading "Think Like a Programmer: An Introduction to Creative Problem Solving"
 
 <a href="https://gist.github.com/ejanovitz">GitHub Gists</a>
   
