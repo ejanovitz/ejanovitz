@@ -5,7 +5,7 @@
 
 ### :bust_in_silhouette: About Me:
 
-I am currently in second year for computer science at Ontario Tech University, I currently know Python, Java, C++, and are looking into HTML, CSS, and JS
+I am currently in second year for computer science at Ontario Tech University, I currently know Python, Java, C++, HTML, CSS, and JS and are looking more into Node.js, React, and SQL. 
 
 <a href="https://gist.github.com/ejanovitz">GitHub Gists</a>
   
