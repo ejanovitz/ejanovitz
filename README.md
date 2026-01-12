@@ -66,4 +66,4 @@ I’ve worked on:
 ---
 
 ### :mailbox: How to reach me ...
-* ejanovitz@pm.me
+* ejanovitz@outlook.com
