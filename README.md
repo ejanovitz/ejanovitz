@@ -8,6 +8,10 @@
 I’m a **Computer Science student at Ontario Tech University**, specializing in **Data Science**.  
 I enjoy building **data-driven systems, backend tools, and research prototypes**, and I’m especially interested in how data, automation, and machine learning intersect with real-world problems.
 
+In addition to my academic work, I have hands-on experience designing and building **end-to-end software systems**. I’ve worked on backend services, automation scripts, and data pipelines that emphasize **clean architecture, reliability, and maintainability**. I enjoy translating real-world requirements into working solutions—whether that means designing APIs, structuring databases, handling edge cases, or improving system performance.
+
+I’m particularly interested in **backend and full-stack development**, where I can combine strong programming fundamentals with data-driven thinking. I value writing readable, well-documented code and iterating on projects through testing, debugging, and refactoring to make them production-ready.
+
 I’ve worked on:
 - Backend systems & automation tools  
 - Data analysis & visualization projects  
@@ -25,7 +29,7 @@ I’ve worked on:
 
 ---
 
-#### :seedling: I’m currently learning ...</td>
+#### :seedling: Currently Exploring & Building With ...</td>
 
 - Advanced Python for data & backend systems  
 - SQL & data modeling  
