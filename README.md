@@ -5,26 +5,53 @@
 
 ### :bust_in_silhouette: About Me:
 
-I am currently in second year for computer science at Ontario Tech University, I currently know Python, Java, C++, HTML, CSS, and JS and are looking more into Node.js, React, and SQL. 
+I’m a **Computer Science student at Ontario Tech University**, specializing in **Data Science**.  
+I enjoy building **data-driven systems, backend tools, and research prototypes**, and I’m especially interested in how data, automation, and machine learning intersect with real-world problems.
+
+I’ve worked on:
+- Backend systems & automation tools  
+- Data analysis & visualization projects  
+- Research-focused ML and document-understanding pipelines  
+
 
 <a href="https://gist.github.com/ejanovitz">GitHub Gists</a>
   
 #### :eyes: I’m interested in ...
 
-* Coding
-* Gaming with friends on Xbox and PC
+* Software development & data engineering  
+* Machine learning & applied AI  
+* Gaming (PC & Xbox)  
 * Mountain Biking :bike:
 
 ---
 
 #### :seedling: I’m currently learning ...</td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" />&nbsp;
+
+- Advanced Python for data & backend systems  
+- SQL & data modeling  
+- React & modern frontend patterns  
+- ML workflows for document understanding  
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
+</p>
+
+---
 
 #### :hammer_and_wrench: I use these tools for development :</td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>&nbsp;
-<img src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" width="50" height="50" />&nbsp;
-<img src="https://macx.ws/uploads/posts/2017-08/1503175461_pycharm.png" width="50" height="50" />&nbsp;
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
 
 ---
 
